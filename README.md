@@ -89,6 +89,7 @@ Fairness in AI (FAI) aims to build fair and unbiased AI/machine learning systems
   * [Mitigating Unwanted Biases with Adversarial Learning](https://arxiv.org/pdf/1801.07593.pdf)
   * [Adversarial Removal of Demographic Attributes from Text Data](https://arxiv.org/pdf/1808.06640.pdf)
   * [Compositional Fairness Constraints for Graph Embeddings](http://proceedings.mlr.press/v97/bose19a/bose19a.pdf)
+  * [A Novel Estimator of Mutual Information for Learning to Disentangle Textual Representations](https://arxiv.org/abs/2105.02685)
 
 * Calibration
   * [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](https://arxiv.org/pdf/1707.09457.pdf)
